@@ -23,15 +23,20 @@
 
 # Informações sobre o projeto;
 
-"Se você está procurando uma maneira fácil de dividir as despesas de um churrasco com seus amigos, temos a solução perfeita para você. Apresentamos o nosso novo aplicativo de divisão de churrasco, desenvolvido com TypeScript e React Native para Android e iOS.
+"Se você está procurando uma maneira fácil de dividir as despesas de um churrasco com seus amigos, temos a solução perfeita para você. Apresentamos o nosso novo aplicativo de divisão de churrasco, desenvolvido com TypeScript e React Native para Android e iOS criando com meus conhecimentos.
 
-Com o nosso aplicativo, você pode facilmente dividir as despesas do churrasco entre os participantes, garantindo que cada um pague sua parcela justa. Além disso, o aplicativo também permite que você adicione itens à lista de compras do churrasco, ajudando a manter tudo organizado e evitando a duplicação de itens.
+Com o aplicativo, você pode facilmente dividir as despesas do churrasco entre os participantes, garantindo que cada um pague sua parcela justa. Além disso, o aplicativo também permite que você adicione itens à lista de compras do churrasco, ajudando a manter tudo organizado e evitando a duplicação de itens.
 
 Desenvolvido com as tecnologias mais modernas, incluindo TypeScript e React Native, nosso aplicativo é fácil de usar e funciona perfeitamente em dispositivos Android e iOS. Com uma interface intuitiva e recursos avançados, este aplicativo é a escolha perfeita para aqueles que desejam organizar um churrasco sem estresse.
 
-Ao longo deste canal, vamos mostrar como desenvolvemos o aplicativo, desde a concepção até a implementação final. Você aprenderá como usar TypeScript e React Native para criar um aplicativo móvel moderno e funcional, além de como usar as melhores práticas de desenvolvimento para garantir a qualidade do código e a escalabilidade do projeto.
+Ao longo do desenvolvimento do aplicativo, mostro uso as tecnologias desenvolvida de forma simples o aplicativo, desde a concepção até termino do frontend. Você tera um aplicativo simples em TypeScript e React Native moderno e funcional, além de como, usar as melhores práticas de desenvolvimento para garantir a qualidade do código e a escalabilidade do projeto.
 
-Não perca a chance de conhecer nosso aplicativo de divisão de churrasco e aprender como desenvolver aplicativos móveis de alta qualidade usando TypeScript e React Native. Inscreva-se agora em nosso canal e comece a aprender hoje!"
+Não perca a chance de conhecer nosso canal no YouTube, link no final deste arquivo, e diverta com o código do aplicativo de divisão de churrasco e aprender como foi desenvolvido o aplicativo móveis usando TypeScript e React Native.
+
+Inscreva-se agora em nosso canal e comece a aprender hoje!"
+
+# Link do projeto Demo no YouTube;
+[![Demo do Meu Projeto no YouTube](http://img.youtube.com/vi/abcdefghijk/0.jpg)](https://youtu.be/LqjNP6J7090)
 
 # Tarefas;
 
