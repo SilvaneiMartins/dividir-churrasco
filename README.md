@@ -36,7 +36,7 @@ Não perca a chance de conhecer nosso canal no YouTube, link no final deste arqu
 Inscreva-se agora em nosso canal e comece a aprender hoje!"
 
 # Link do projeto Demo no YouTube;
-[![Demo do Meu Projeto no YouTube](http://img.youtube.com/vi/abcdefghijk/0.jpg)](https://youtu.be/LqjNP6J7090)
+[![Demo do Meu Projeto no YouTube](https://i.imgur.com/MMa8Cc4.png)](https://youtu.be/LqjNP6J7090)
 
 # Tarefas;
 
